@@ -9,13 +9,13 @@
 - A web-based AI assistant built using JavaScript
 - Features: Chat UI, API integration, clean interface
 - 🔗 Live: https://knowlet/assistant
-- 💻 Code: https://github.com/sujankumarroy/knowlet
+- 💻 Code: https://github.com/sujanroydev/knowlet
 
 ### 🔹 Knowlet
 - A eLibrary for Post Graduate students built using JavaScript
 - Features: Chat UI, Downloadable Materials, Works Offline, clean interface
 - 🔗 Live: https://knowlet
-- 💻 Code: https://github.com/sujankumarroy/knowlet
+- 💻 Code: https://github.com/sujanroydev/knowlet
 
 ### 🔹 Portfolio Website
 - Personal portfolio using HTML, CSS, JS
@@ -42,8 +42,8 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujankumarroy&theme=tokyo-night" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujanroydev&theme=tokyo-night" />
 </p>
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=sujankumarroy&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+    <img src="https://streak-stats.demolab.com?user=sujanroydev&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
