@@ -8,7 +8,7 @@
 ### 🔹 Knowlet AI Assistant
 - A web-based AI assistant built using JavaScript
 - Features: Chat UI, API integration, clean interface
-- 🔗 Live: https://knowlet.in/assistant
+- 🔗 Live: https://knowlet.in/nexus
 - 💻 Code: https://github.com/sujanroydev/knowlet
 
 ### 🔹 Knowlet
@@ -25,6 +25,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sujanroydev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujanroydev)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@buildfromcode)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujanroydev@gmail.com) 
 
 # 💻 Tech Stack:
