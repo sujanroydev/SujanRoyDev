@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on: Building web apps and learning core programming concepts<br>
-🌱 I’m currently learning: JavaScript, React and TypeScript<br>
+🌱 I’m currently learning: TypeScript, React and NextJs<br>
 ⚡ Fun fact: I enjoy solving logical problems more than memorizing theory
 
 ## 🚀 Projects
@@ -23,10 +23,12 @@
 - 🔗 Live: https://sujanroy.in
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sujanroydev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sujanroydev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujanroydev)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@buildfromcode)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujanroydev@gmail.com) 
+[![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/sujanroydev)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/sujanroydev)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujanroydev@gmail.com)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
