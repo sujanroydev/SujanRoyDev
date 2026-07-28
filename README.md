@@ -8,13 +8,13 @@
 ### 🔹 Knowlet AI Assistant
 - A web-based AI assistant built using JavaScript
 - Features: Chat UI, API integration, clean interface
-- 🔗 Live: https://knowlet/assistant
+- 🔗 Live: https://knowlet.in/assistant
 - 💻 Code: https://github.com/sujanroydev/knowlet
 
 ### 🔹 Knowlet
 - A eLibrary for Post Graduate students built using JavaScript
 - Features: Chat UI, Downloadable Materials, Works Offline, clean interface
-- 🔗 Live: https://knowlet
+- 🔗 Live: https://knowlet.in
 - 💻 Code: https://github.com/sujanroydev/knowlet
 
 ### 🔹 Portfolio Website
