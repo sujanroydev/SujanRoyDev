@@ -6,21 +6,16 @@
 ## 🚀 Projects
 
 ### 🔹 Knowlet AI Assistant
-- A web-based AI assistant built using JavaScript
-- Features: Chat UI, API integration, clean interface
+- An AI assistant built with Next.js
+- Features: AI chat, multiple AI models, persistent conversations, clean and responsive interface
 - 🔗 Live: https://knowlet.in/nexus
 - 💻 Code: https://github.com/sujanroydev/knowlet
 
 ### 🔹 Knowlet
-- A eLibrary for Post Graduate students built using JavaScript
-- Features: Chat UI, Downloadable Materials, Works Offline, clean interface
+- A digital library for postgraduate students built with Next.js
+- Features: Study materials, previous year question papers, responsive design, admin dashboard
 - 🔗 Live: https://knowlet.in
 - 💻 Code: https://github.com/sujanroydev/knowlet
-
-### 🔹 Portfolio Website
-- Personal portfolio using HTML, CSS, JS
-- Responsive design and modern UI
-- 🔗 Live: https://sujanroy.in
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sujanroydev)
