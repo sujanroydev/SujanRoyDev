@@ -42,10 +42,20 @@
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujanroydev&theme=tokyo-night" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=sujanroydev&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=sujanroydev&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sujanroydev&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujanroydev&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujanroydev&theme=tokyonight" alt="Most Commit Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujanroydev&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </p>
