@@ -50,12 +50,3 @@
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sujanroydev&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujanroydev&theme=tokyonight" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujanroydev&theme=tokyonight" alt="Most Commit Language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujanroydev&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-</p>
